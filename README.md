@@ -1,0 +1,1 @@
+This repository demonstrates a common error in VBScript function parameter handling. The original code lacks robust error handling for empty parameters, causing unexpected runtime errors. The solution provides improved error checking and handling to prevent such issues.
